@@ -28,8 +28,6 @@ Hey there! I work on Front end development and web designing when I am bored whi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 ## Languages & Tools I Have Placed My Hands On
-
-### Programming Languages & Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,17 +58,13 @@ Hey there! I work on Front end development and web designing when I am bored whi
 ---
 
 <div align="center">
-
 ```
-┌─────────────────────────────────────────────────────────────┐
-│          Thanks for visiting my digital workspace! 🚀       │
-│              Let's create something amazing together         │
-└─────────────────────────────────────────────────────────────┘
+                                    ┌─────────────────────────────────────────────────────────────┐
+                                    │          Thanks for visiting my digital workspace! 🚀       │
+                                    │              Let's create something amazing together         │
+                                    └─────────────────────────────────────────────────────────────┘
 ```
-
 ⭐ **If you like my work, consider giving my repositories a star!** ⭐
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
-
 </div>
 
