@@ -7,10 +7,33 @@ I work on Front end development and web designing when I am bored while focusing
 - 🔭 I am currently working on and developing my programming skills
 - 🌱 I'm currently learning .Net Framework and Hands on Experience in Full Stack
 - 👯 I'm looking to collaborate on
-  - As me about Microsoft .Net Framework, Full Stack Development, Python
-  - 🤔 I'm looking for help with Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development
-  - 💬 Ask me about anything related to tech
-  - ⚡ Fun fact: ...
+  - I'm looking for help with Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development
+  - Ask me about anything related to tech
+
+## 🎮 Fun Facts
+
+- 🌙 I'm most creative during late-night design sessions
+- 🍜 Fueled by ramen and green tea
+- 🎵 Always designing with lo-fi hip-hop in the background
+- 🌸 Collecting inspiration from anime aesthetics and minimalist design
+- 🎯 Believer in "less is more" but "details matter most"
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│          Thanks for visiting my digital workspace! 🚀       │
+│              Let's create something amazing together         │
+└─────────────────────────────────────────────────────────────┘
+```
+
+⭐ **If you like my work, consider giving my repositories a star!** ⭐
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
+
+</div>
 
 ## 📫 Reach Me on:
 
@@ -60,36 +83,3 @@ I work on Front end development and web designing when I am bored while focusing
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-## Support Me 🙏
-
-[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
-
----
-
-## 📌 Pinned
-
-### JoshuaThadi
-**🔥 Super Saiyan Profile ReadMe.md**
-📍 HTML
-
-### Preview
-**🌐 Live Preview using Github Pages**
-📍 HTML
-
-### Modal Popup
-**🗂️ Custom Modal Pop-Up Login Page in HTML and Javascript**
-📍 HTML
-
-### Wall-E Oak
-**🤖 This is Saleax of Autonomous Wallpapers For Desktop. UI For Banners and Help Online Stylish**
-
-### Notion-O-Motion
-**📝 My Notion Vlog Overview Functions**
-
-### Yahoo-Net
-**📧 Fully Plug (Restores Project I intended as Sub-Compunds of Watchapp)**
-
----
-
-*Customize your experience on GitHub*
