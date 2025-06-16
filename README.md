@@ -58,13 +58,17 @@ Hey there! I work on Front end development and web designing when I am bored whi
 ---
 
 <div align="center">
+
 ```
-  ┌─────────────────────────────────────────────────────────────┐
-  │          Thanks for visiting my digital workspace! 🚀       │
-  │              Let's create something amazing together         │
-  └─────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│          Thanks for visiting my digital workspace! 🚀       │
+│              Let's create something amazing together         │
+└─────────────────────────────────────────────────────────────┘
 ```
+
 ⭐ **If you like my work, consider giving my repositories a star!** ⭐
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
+
 </div>
 
