@@ -1,13 +1,8 @@
 # Namaste 👏🏾 I'm Mxolisi
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="100" height="100" />
-</div>
-
 > *"Design is not just what it looks like – design is how it works."*
 
 Hey there! I work on Front end development and web designing when I am bored while focusing on Data Science and AI/ML. I believes in creating digital experiences that are both beautiful and functional. I specialize in crafting pixel-perfect interfaces that tell stories and solve real problems.
-
 
 ## 🧙‍♂️ About Me
 
@@ -27,12 +22,12 @@ Hey there! I work on Front end development and web designing when I am bored whi
 
 ---
 
-## 📫 Reach Me on:
+## Reach Me on:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-## 🛠️ Languages & Tools I Have Placed My Hands On
+## Languages & Tools I Have Placed My Hands On
 
 ### Programming Languages & Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -61,6 +56,8 @@ Hey there! I work on Front end development and web designing when I am bored whi
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+---
 
 <div align="center">
 
