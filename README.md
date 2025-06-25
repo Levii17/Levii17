@@ -15,7 +15,7 @@ Hey there! I work on Front end development and web designing when I am bored whi
 ## 🎮 Fun Facts
 
 - 🌙 I'm most creative during late-night design sessions
-- 🍜 Fueled by ramen and green tea
+- 🍜 Fueled by noodles and coffee
 - 🎵 Always designing with lo-fi hip-hop in the background
 - 🌸 Collecting inspiration from anime aesthetics and minimalist design
 - 🎯 Believer in "less is more" but "details matter most"
