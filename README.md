@@ -2,7 +2,7 @@
 
 > *"Design is not just what it looks like – design is how it works."*
 
-Hey there! I work on Front end development and web designing. When I am bored while i read manga, watch anime or game. I believes in creating digital experiences that are both beautiful and functional. I specialize in crafting pixel-perfect interfaces that tell stories and solve real problems.
+Hey there! I work on Front end development and web designing. When I am bored i read manga, watch anime or game. I believes in creating digital experiences that are both beautiful and functional. I specialize in crafting pixel-perfect interfaces that tell stories and solve real problems.
 
 ## 🧙‍♂️ About Me
 
