@@ -2,14 +2,14 @@
 
 > *"Design is not just what it looks like – design is how it works."*
 
-Hey there! I work on Front end development and web designing when I am bored while focusing on Data Science and AI/ML. I believes in creating digital experiences that are both beautiful and functional. I specialize in crafting pixel-perfect interfaces that tell stories and solve real problems.
+Hey there! I work on Front end development and web designing. When I am bored while i read manga, watch anime or game. I believes in creating digital experiences that are both beautiful and functional. I specialize in crafting pixel-perfect interfaces that tell stories and solve real problems.
 
 ## 🧙‍♂️ About Me
 
-- 🔭 I am currently working on and developing my programming skills
-- 🌱 I'm currently learning .Net Framework and Hands on Experience in Full Stack
-- 👯 I'm looking to collaborate on
-  - I'm looking for help with Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development
+- 🔭 I am currently working on and developing my programming skills 
+- 🌱 I'm currently learning Back-end development and databases
+- 👯 I'm looking to collaborate on:
+  - Any/Every -thing, Anytime, hmu :)
   - Ask me about anything related to tech
 
 ## 🎮 Fun Facts
@@ -24,7 +24,7 @@ Hey there! I work on Front end development and web designing when I am bored whi
 
 ## Reach Me on:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mxolisibhotile75@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 ## Languages & Tools I Have Placed My Hands On
