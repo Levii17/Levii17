@@ -6,19 +6,19 @@ Hey there! I work on Front end development and web designing. When I am bored i 
 
 ## 🧙‍♂️ About Me
 
-- 🔭 I am currently working on and developing my programming skills 
-- 🌱 I'm currently learning Back-end development and databases
-- 👯 I'm looking to collaborate on:
+- I am currently working on and developing my programming skills 
+- I'm currently learning Back-end development and databases
+- I'm looking to collaborate on:
   - Any/Every -thing, Anytime, hmu :)
   - Ask me about anything related to tech
 
 ## 🎮 Fun Facts
 
-- 🌙 I'm most creative during late-night design sessions
-- 🍜 Fueled by noodles and coffee
-- 🎵 Always designing with lo-fi hip-hop in the background
-- 🌸 Collecting inspiration from anime aesthetics and minimalist design
-- 🎯 Believer in "less is more" but "details matter most"
+- I'm most creative during late-night design sessions
+- Fueled by noodles and coffee
+- Always designing with lo-fi hip-hop in the background
+- Collecting inspiration from anime aesthetics and minimalist design
+- Believer in "less is more" but "details matter most"
 
 ---
 
