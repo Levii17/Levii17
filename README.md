@@ -5,7 +5,7 @@
 </p>
 <h3 align="center"><i>"Sometimes I wish I was a cloud, just floating along, going wherever the breeze takes me, that's my style. I'm just not into putting effort into stuff.."</i></h3>
 
-<h2>I work on Front end development and web designing. When I am bored i read manga, watch anime or game. I believes in creating digital experiences that are both beautiful and functional. I specialize in crafting pixel-perfect interfaces that tell stories and solve real problems.</h2>
+I work on Front end development and web designing. When I am bored i read manga, watch anime or game. I believes in creating digital experiences that are both beautiful and functional. I specialize in crafting pixel-perfect interfaces that tell stories and solve real problems.
 
 ## 🧙‍♂️ About Me
 
@@ -25,11 +25,9 @@
 
 ## 🌚 Reach Me on
 
-<div align="center">
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mxolisibhotile75@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-BC0556?style=for-the-badge&logo=About.me&logoColor=white)](https://mxolisibhotile.vercel.app/)
-</div>
 
 ---
 ## Technical Skills & Expertise
