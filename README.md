@@ -78,5 +78,3 @@ I work on Front end development and web designing. When I am bored i read manga,
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
 
 </div>
----
-
