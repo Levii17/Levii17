@@ -3,11 +3,11 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN2cjkxbHR3cDNtNWd6aXhvNXIxZGY2bjc2YWF4YTRveHBhM3Z2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" alt=Cowboy Bebop" width="400"/>
 </p>
-<h3 align="center"><i>"Sometimes I wish I was a cloud, just floating along, going wherever the breeze takes me, that's my style. I'm just not into putting effort into stuff.."</i></h3>
-
+<!-- <h3 align="center"><i>"Sometimes I wish I was a cloud, just floating along, going wherever the breeze takes me, that's my style. I'm just not into putting effort into stuff.."</i></h3>
+ -->
 I work on Front end development and web designing. When I am bored i read manga, watch anime or game. I believes in creating digital experiences that are both beautiful and functional. I specialize in crafting pixel-perfect interfaces that tell stories and solve real problems.
 
-## 🧙‍♂️ About Me
+## About Me
 
 - I am currently working on and developing my programming skills 
 - I'm currently learning Back-end development and databases
@@ -15,15 +15,14 @@ I work on Front end development and web designing. When I am bored i read manga,
   - Any/Every -thing, Anytime, hmu :)
   - Ask me about anything related to tech
 
-## 🎮 Fun Facts
+## Fun Facts
 
 - I'm most creative during late-night design sessions
-- Fueled by noodles and coffee
 - Always designing with lo-fi hip-hop in the background
 - Collecting inspiration from anime aesthetics and minimalist design
 - Believer in "less is more" but "details matter most"
 
-## 🌚 Reach Me on
+## Reach Me on
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mxolisibhotile75@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
