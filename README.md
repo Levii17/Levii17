@@ -33,26 +33,24 @@ $
 
 ## $ whoami
 
-```bash
+bash
 name: Mxolisi
 role: Frontend Developer
 focus: clean UI + functional UX
 learning: backend architecture & databases
 philosophy: less, but better
-```
 
 ---
 
 ## $ ls skills/
 
-```bash
+bash
 frontend/   → React, Next.js, TypeScript, JavaScript
 styling/    → Tailwind, CSS, Sass
 backend/    → Node.js, Python
 database/   → PostgreSQL, MySQL, MongoDB
 tools/      → Git, GitHub, VS Code, Postman
 design/     → Figma
-```
 
 ---
 
