@@ -1,8 +1,5 @@
 <div align="center">
   
-<!-- Matrix Rain Background -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFhYWpqYnh4MG0zMnhlc20zOHhnMzJoMnlrcmp6czdtbHZqc2l4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" width="100%" style="opacity:0.15;position:absolute;z-index:-1;"/>
-  
 <!-- ASCII Logo -->
 <pre>
 ███╗   ███╗██╗  ██╗ ██████╗ ██╗     ██╗███████╗██╗
