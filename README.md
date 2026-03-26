@@ -1,4 +1,3 @@
-```
 <div align="center">
 
 <!-- Matrix Rain Background -->
@@ -19,10 +18,8 @@
 
 </div>
 
----
-
 ## $ boot-sequence
-```bash
+bash
 [ OK ] initializing kernel ...
 [ OK ] loading modules ...
 [ OK ] mounting filesystems ...
@@ -31,7 +28,6 @@
 $ echo "Welcome to Mxolisi's digital terminal"
 Welcome to Mxolisi's digital terminal
 $ 
-````
 
 ---
 
@@ -121,4 +117,3 @@ design/     → Figma
 ```
 
 </div>
-```
