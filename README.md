@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Matrix Rain Background -->
-<img src="[https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9uYzBjYm92OXoybG53b3dmd3VsZzZoOXR4cmgxb3E1b3N5d3U0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lSzQjkthGS1gc/giphy.gif)" width="100%" style="opacity:0.15;position:absolute;z-index:-1;"/>
-
 <!-- ASCII Logo -->
-<pre style="color:#00FF00;font-family:monospace;">
+<pre>
 ███╗   ███╗██╗  ██╗ ██████╗ ██╗     ██╗███████╗██╗
 ████╗ ████║╚██╗██╔╝██╔═══██╗██║     ██║██╔════╝██║
 ██╔████╔██║ ╚███╔╝ ██║   ██║██║     ██║███████╗██║
@@ -18,7 +15,11 @@
 
 </div>
 
-## $ boot-sequence
+---
+
+## Boot Sequence
+
+```bash
 [ OK ] initializing kernel ...
 [ OK ] loading modules ...
 [ OK ] mounting filesystems ...
@@ -27,31 +28,36 @@
 $ echo "Welcome to Mxolisi's digital terminal"
 Welcome to Mxolisi's digital terminal
 $ 
+```
 
 ---
 
-## $ whoami
+## whoami
+
+```bash
 name: Mxolisi
 role: Frontend Developer
 focus: clean UI + functional UX
 learning: backend architecture & databases
 philosophy: less, but better
+```
 
 ---
 
-## $ ls skills/
+## Skills
 
-bash
+```bash
 frontend/   → React, Next.js, TypeScript, JavaScript
 styling/    → Tailwind, CSS, Sass
 backend/    → Node.js, Python
 database/   → PostgreSQL, MySQL, MongoDB
 tools/      → Git, GitHub, VS Code, Postman
 design/     → Figma
+```
 
 ---
 
-## $ tree projects/
+## Projects
 
 ```bash
 .
@@ -66,32 +72,32 @@ design/     → Figma
 
 ---
 
-## $ github-stats
+## GitHub Stats
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=000000"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000"/>
-</p>
-
----
-
-## $ activity-graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true"/>
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000" />
+</div>
 
 ---
 
-## $ contribution-snake
+## Activity Graph
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true" />
+</div>
 
 ---
 
-## $ currently-building
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## Currently Building
 
 ```bash
 → sharpening frontend engineering skills
@@ -112,3 +118,4 @@ design/     → Figma
 ```
 
 </div>
+```
