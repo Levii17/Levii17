@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Matrix Rain Background -->
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" style="opacity:0.15;position:absolute;z-index:-1;"/>
+<img src="[https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9uYzBjYm92OXoybG53b3dmd3VsZzZoOXR4cmgxb3E1b3N5d3U0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lSzQjkthGS1gc/giphy.gif)" width="100%" style="opacity:0.15;position:absolute;z-index:-1;"/>
 
 <!-- ASCII Logo -->
 <pre style="color:#00FF00;font-family:monospace;">
@@ -19,7 +19,6 @@
 </div>
 
 ## $ boot-sequence
-bash
 [ OK ] initializing kernel ...
 [ OK ] loading modules ...
 [ OK ] mounting filesystems ...
@@ -32,8 +31,6 @@ $
 ---
 
 ## $ whoami
-
-bash
 name: Mxolisi
 role: Frontend Developer
 focus: clean UI + functional UX
