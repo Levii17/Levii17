@@ -59,7 +59,7 @@ design/     → Figma
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Levii17&show_icons=true&hide_border=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levii17E&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levii17&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000" />
 </div>
 
 ---
@@ -75,7 +75,7 @@ design/     → Figma
 ## Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Levii17/Levii17/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Levii17/Levii17/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
