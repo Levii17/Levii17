@@ -75,7 +75,7 @@ design/     → Figma
 ## Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Levii17/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Levii17/Levii17/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
