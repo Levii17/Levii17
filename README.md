@@ -14,22 +14,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+whoami;Frontend+Developer;UI%2FUX+Enthusiast;Learning+Backend+Architecture;Minimalism+%7C+Clean+Code" />
 
 </div>
-
----
-
-## Boot Sequence
-
-```bash
-[ OK ] initializing kernel ...
-[ OK ] loading modules ...
-[ OK ] mounting filesystems ...
-[ OK ] setting up networking ...
-[ OK ] starting shell ...
-$ echo "Welcome to Mxolisi's digital terminal"
-Welcome to Mxolisi's digital terminal
-$ 
-```
-
 ---
 
 ## whoami
@@ -75,8 +59,8 @@ design/     → Figma
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Levii17&show_icons=true&hide_border=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levii17E&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000" />
 </div>
 
 ---
@@ -84,7 +68,7 @@ design/     → Figma
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levii17&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true" />
 </div>
 
 ---
@@ -92,7 +76,7 @@ design/     → Figma
 ## Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Levii17/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
@@ -118,4 +102,3 @@ design/     → Figma
 ```
 
 </div>
-```
