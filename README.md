@@ -37,33 +37,7 @@ database/   → PostgreSQL, MySQL, MongoDB
 tools/      → Git, GitHub, VS Code, Postman
 design/     → Figma
 ```
-
 ---
-
-## Projects
-
-```bash
-.
-├── interactive-learning-app
-│   └── modern educational UI experiments
-├── gym-tracker
-│   └── personal workout tracking web app
-├── country-study-framework
-│   └── structured learning platform
-└── more...
-```
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Levii17&show_icons=true&hide_border=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levii17&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000" />
-</div>
-
----
-
 ## Activity Graph
 
 <div align="center">
