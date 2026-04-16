@@ -72,6 +72,8 @@ design/     → Figma
 │   thanks for visiting my workspace  │
 │   feel free to explore my repos     │
 └─────────────────────────────────────┘
+![Profile Views](https://komarev.com/ghpvc/?Levii17)
+
 ```
 
 </div>
