@@ -19,7 +19,7 @@
 
 ```bash
 name: Mxolisi
-role: Frontend Developer
+role: N/A, Just a Tech Enthusiast
 focus: clean UI + functional UX
 learning: backend architecture & databases
 philosophy: less, but better
@@ -27,7 +27,7 @@ philosophy: less, but better
 
 ---
 
-## Skills
+## Toolbox
 
 ```bash
 frontend/   → React, Next.js, TypeScript, JavaScript
@@ -57,7 +57,7 @@ design/     → Figma
 ## Currently Building
 
 ```bash
-→ sharpening frontend engineering skills
+→ building an interactive learning platform for South African history, geography, culture, and politics.
 → learning production backend systems
 → designing minimal interfaces
 → experimenting with terminal & matrix effects
