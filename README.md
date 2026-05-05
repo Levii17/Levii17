@@ -73,6 +73,6 @@ design/     → Figma
 │   feel free to explore my repos     │
 └─────────────────────────────────────┘
 ```  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Levii17&color=B8860B&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Levii17&color=00FF00&style=for-the-badge)
   
 </div>
