@@ -18,9 +18,9 @@
 ## whoami
 
 ```bash
-name: Mxolisi
-role: N/A, Just a Tech Enthusiast
-focus: clean UI + functional UX
+name: mxolisi
+role: n/a, just a tech enthusiast
+focus: clean UI + functional ux
 learning: backend architecture & databases
 philosophy: less, but better
 ```
@@ -30,12 +30,12 @@ philosophy: less, but better
 ## Toolbox
 
 ```bash
-frontend/   → React, Next.js, TypeScript, JavaScript
-styling/    → Tailwind, CSS, Sass
-backend/    → Node.js, Python
-database/   → PostgreSQL, MySQL, MongoDB
-tools/      → Git, GitHub, VS Code, Postman
-design/     → Figma
+frontend/   → react, Next.js, TypeScript, JavaScript
+styling/    → tailwind, css, sass
+backend/    → node.js, python
+database/   → postgreSQL, MySQL, MongoDB
+tools/      → git, gitHub, vs code, postman
+design/     → figma
 ```
 ---
 ## Activity Graph
