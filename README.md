@@ -1,14 +1,14 @@
 <div align="center">
   
 <!-- ASCII Logo -->
-<pre>
+<!-- <pre>
 ███╗   ███╗██╗  ██╗ ██████╗ ██╗     ██╗███████╗██╗
 ████╗ ████║╚██╗██╔╝██╔═══██╗██║     ██║██╔════╝██║
 ██╔████╔██║ ╚███╔╝ ██║   ██║██║     ██║███████╗██║
 ██║╚██╔╝██║ ██╔██╗ ██║   ██║██║     ██║╚════██║██║
 ██║ ╚═╝ ██║██╔╝ ██╗╚██████╔╝███████╗██║███████║██║
 ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝╚══════╝╚═╝
-</pre>
+</pre> -->
 
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+whoami;Frontend+Developer;UI%2FUX+Enthusiast;Learning+Backend+Architecture;Minimalism+%7C+Clean+Code" />
