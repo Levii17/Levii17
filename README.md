@@ -26,7 +26,6 @@ learning: backend architecture & databases
 philosophy: less, but better
 ```
 -->
----
 
 ## Toolbox
 
@@ -38,22 +37,17 @@ database/   → postgreSQL, MySQL, MongoDB
 tools/      → git, gitHub, vs code, postman
 design/     → figma
 ```
----
 ## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levii17&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true" />
 </div>
 
----
-
 ## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Levii17/Levii17/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
----
 
 ## Currently Building
 
@@ -63,11 +57,8 @@ design/     → figma
 → designing minimal interfaces
 → experimenting with terminal & matrix effects
 ```
-
----
-
 <div align="center">
-
+  
 ```
 ┌─────────────────────────────────────┐
 │   thanks for visiting my workspace  │
