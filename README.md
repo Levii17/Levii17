@@ -1,70 +1,157 @@
 <div align="center">
-  
-<!-- ASCII Logo -->
-<!-- <pre>
-███╗   ███╗██╗  ██╗ ██████╗ ██╗     ██╗███████╗██╗
-████╗ ████║╚██╗██╔╝██╔═══██╗██║     ██║██╔════╝██║
-██╔████╔██║ ╚███╔╝ ██║   ██║██║     ██║███████╗██║
-██║╚██╔╝██║ ██╔██╗ ██║   ██║██║     ██║╚════██║██║
-██║ ╚═╝ ██║██╔╝ ██╗╚██████╔╝███████╗██║███████║██║
-╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝╚══════╝╚═╝
-</pre> -->
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+whoami;Mxolisi;Tech+Enthusiast;Learning+Backend+Architecture;Minimalism+%7C+Clean+Code" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=%3E+whoami;Mxolisi+Bhotile;Electrical+Engineering+%E2%86%92+Software+Engineering;Backend+Systems+%7C+Cybersecurity;Building+Software+That+Solves+Real+Problems" />
 
 </div>
 
-<!--
-## whoami
+---
+
+# $ whoami
 
 ```bash
-name: mxolisi
-role: n/a, just a tech enthusiast
-focus: clean UI + functional ux
-learning: backend architecture & databases
-philosophy: less, but better
-```
--->
+name:        Mxolisi *******
 
-## Toolbox
+location:    South Africa 🇿🇦
+
+background:  Electrical Engineering (N1–N6)
+
+transition:  Software Engineering
+
+interests:   Backend Systems
+             System Design
+             Cybersecurity
+             Web Development
+
+philosophy:  "Less, but better."
+```
+
+---
+
+# $ mission
+
+I enjoy designing software that is simple, reliable, and solves real-world
+problems.
+
+My current focus is building strong backend fundamentals while creating
+projects that improve education, civic technology, and digital services.
+
+---
+
+# $ toolbox
 
 ```bash
-frontend/   → react, Next.js, TypeScript, JavaScript
-styling/    → tailwind, css, sass
-backend/    → node.js, python
-database/   → postgreSQL, MySQL, MongoDB
-tools/      → git, gitHub, vs code, postman
-design/     → figma
+languages/
+├── Python
+├── JavaScript
+└── TypeScript
+
+frontend/
+├── React
+├── Next.js
+├── HTML
+├── CSS
+└── Tailwind CSS
+
+backend/
+├── Node.js
+├── Express
+└── REST APIs
+
+databases/
+├── PostgreSQL
+├── MySQL
+└── MongoDB
+
+tools/
+├── Git
+├── GitHub
+├── VS Code
+├── Postman
+├── Prisma
+└── Figma
 ```
-## Activity Graph
+
+---
+
+# $ currently
+
+```bash
+✓ Building backend projects with Python
+
+✓ Expanding my knowledge of backend architecture
+
+✓ Studying cybersecurity fundamentals
+
+✓ Designing clean, user-focused interfaces
+
+✓ Looking for opportunities to contribute and grow
+```
+
+---
+
+# $ featured_projects
+
+```text
+🛠 CivicReport
+Citizen reporting platform focused on improving communication
+between communities and local government.
+
+📚 South African Learning Platform
+Interactive platform for learning South African history,
+geography, politics and culture.
+
+🛡 Future Cybersecurity Projects
+Security tools, automation scripts and defensive utilities.
+```
+
+*(More projects coming soon.)*
+
+---
+
+# $ github_activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levii17&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Levii17&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true"/>
+
 </div>
 
-## Contribution Snake
+---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Levii17/Levii17/output/github-contribution-grid-snake-dark.svg" />
-</div>
+# $ principles
 
-## Currently Building
+```text
+• Build things that matter.
+• Keep learning.
+• Write clean, maintainable code.
+• Design before developing.
+• Simplicity scales.
+```
+
+---
+
+# $ connect
 
 ```bash
-→ building an interactive learning platform for South African history, geography, culture, and politics.
-→ learning production backend systems
-→ designing minimal interfaces
-→ experimenting with terminal & matrix effects
+GitHub     → github.com/Levii17
+
+Portfolio  → Coming Soon
+
+LinkedIn   → Coming Soon
 ```
+
+---
+
 <div align="center">
-  
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│     Thanks for stopping by 👋               │
+│                                             │
+│     Feel free to explore my repositories.   │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
-┌─────────────────────────────────────┐
-│   thanks for visiting my workspace  │
-│   feel free to explore my repos     │
-└─────────────────────────────────────┘
-```  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Levii17&color=00FF00&style=for-the-badge)
-  
+
 </div>
