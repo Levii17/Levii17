@@ -1,7 +1,11 @@
+<div>
 <div align="center">
 
-# `mxolisi@github:~$ ssh profile`
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=%3E+whoami;Mxolisi+Bhotile;Electrical+Engineering+%E2%86%92+Software+Engineering;Backend+Systems+%7C+Cybersecurity;Building+Software+That+Solves+Real+Problems" />
 
+</div>
+
+---
 ```text
                              .
                             /(        mxolisi@github
@@ -12,7 +16,7 @@
                   |_________________|
 
 ──────────────────────────────────────────────────────────────────
-Trained-on....... Electrical Engineering (N1–N6)
+Background....... Electrical Engineering (N1–N6)
 Runtime.......... 4 years EE • building software since 2025
 Kernel........... backend-in-progress (compiling...)
 Host............. Open to Graduate Software Engineering roles
