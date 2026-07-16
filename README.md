@@ -1,4 +1,3 @@
-<div>
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=%3E+whoami;Mxolisi+Bhotile;Electrical+Engineering+%E2%86%92+Software+Engineering;Backend+Systems+%7C+Cybersecurity;Building+Software+That+Solves+Real+Problems" />
@@ -6,223 +5,139 @@
 </div>
 
 ---
-```text
-                             .
-                            /(        mxolisi@github
-                       _.---..`\
-                    .-'         `.
-                   /   Linux      \
-                  |                 |
-                  |_________________|
 
-──────────────────────────────────────────────────────────────────
-Background....... Electrical Engineering (N1–N6)
-Runtime.......... 4 years EE • building software since 2025
-Kernel........... backend-in-progress (compiling...)
-Host............. Open to Graduate Software Engineering roles
-Focus............ Backend Engineering • Civic Tech • Cybersecurity
-Code............. Python, TypeScript, JavaScript, SQL
-Human............ English
-Location......... South Africa 🇿🇦
-──────────────────────────────────────────────────────────────────
-```
+# $ whoami
 
-</div>
+```bash
+name:        Mxolisi *******
 
----
+location:    South Africa 🇿🇦
 
-## `~/about`
+background:  Electrical Engineering (N1–N6)
 
-```text
-I started my career studying Electrical Engineering.
+transition:  Software Engineering
 
-While learning how systems work in the physical world, I discovered
-that I enjoyed designing software just as much.
+interests:   Backend Systems
+             System Design
+             Cybersecurity
+             Web Development
 
-Today I'm focused on backend engineering, system design, and
-building technology that solves practical problems for education,
-communities, and industry.
-
-Current philosophy:
-
-    Build things that matter.
-    Keep them simple.
-    Make them reliable.
+philosophy:  "Less, but better."
 ```
 
 ---
 
-## `~/stack`
+# $ mission
 
-```text
-Languages
+I enjoy designing software that is simple, reliable, and solves real-world
+problems.
+
+My current focus is building strong backend fundamentals while creating
+projects that improve education, civic technology, and digital services.
+
+---
+
+# $ toolbox
+
+```bash
+languages/
 ├── Python
-├── TypeScript
 ├── JavaScript
-└── SQL
+└── TypeScript
 
-Backend
-├── FastAPI (Learning)
-├── Node.js
-├── Express
-└── REST APIs
-
-Frontend
-├── Next.js
+frontend/
 ├── React
+├── Next.js
 ├── HTML
 ├── CSS
 └── Tailwind CSS
 
-Databases
+backend/
+├── Node.js
+├── Express
+└── REST APIs
+
+databases/
 ├── PostgreSQL
 ├── MySQL
-├── MongoDB
-└── Prisma ORM
+└── MongoDB
 
-Tools
+tools/
 ├── Git
 ├── GitHub
-├── Linux
-├── Docker (Learning)
-├── Postman
 ├── VS Code
+├── Postman
+├── Prisma
 └── Figma
 ```
 
 ---
 
-## `~/projects`
+# $ currently
 
-```text
-Muriel
-│
-├─ Browser-based electrical schematic editor
-├─ South African electrical standards
-├─ Smart wiring
-├─ BOM generation
-└─ Progressive Web App
+```bash
+✓ Building backend projects with Python
 
-────────────────────────────────────────────
+✓ Expanding my knowledge of backend architecture
 
-CivicReport
-│
-├─ Municipal issue reporting platform
-├─ Community engagement
-├─ Status tracking
-├─ GIS integration
-└─ Civic technology
+✓ Studying cybersecurity fundamentals
 
-────────────────────────────────────────────
+✓ Designing clean, user-focused interfaces
 
-InterviewPrep AI
-│
-├─ AI-powered interview preparation
-├─ Electrical Engineering students
-├─ Question generation
-├─ Progress tracking
-└─ Personalized learning
-
-────────────────────────────────────────────
-
-Mzansi Learn
-│
-├─ Interactive learning platform
-├─ South African history
-├─ Civics
-├─ Geography
-└─ Digital education
+✓ Looking for opportunities to contribute and grow
 ```
 
 ---
 
-## `~/currently`
+# $ featured_projects
 
 ```text
-[███████████░░░░░░░░] Learning Python Backend Development
+🛠 CivicReport
+Citizen reporting platform focused on improving communication
+between communities and local government.
 
-[█████████░░░░░░░░░░] System Design
+📚 South African Learning Platform
+Interactive platform for learning South African history,
+geography, politics and culture.
 
-[████████░░░░░░░░░░░] Cybersecurity Fundamentals
+🛡 Future Cybersecurity Projects
+Security tools, automation scripts and defensive utilities.
+```
 
-[███████░░░░░░░░░░░░] Cloud Technologies
+*(More projects coming soon.)*
 
-[████████████░░░░░░░] Building Portfolio Projects
+---
+
+# $ github_activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Levii17&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true"/>
+
+</div>
+
+---
+
+# $ principles
+
+```text
+• Build things that matter.
+• Keep learning.
+• Write clean, maintainable code.
+• Design before developing.
+• Simplicity scales.
 ```
 
 ---
 
-## `~/roadmap`
+# $ connect
 
-```text
-✓ Build production-quality backend systems
+```bash
+GitHub     → github.com/Levii17
 
-✓ Contribute to open source
+Portfolio  → Coming Soon
 
-✓ Graduate Software Engineering role
-
-✓ Cloud certification
-
-✓ Cybersecurity specialization
-
-✓ Continue building software for South Africa
-```
-
----
-
-## `~/principles`
-
-```text
-while (learning) {
-
-    build();
-
-    improve();
-
-    document();
-
-    repeat();
-
-}
-```
-
----
-
-## `~/github`
-
-```text
-The repositories you'll find here aren't random tutorials.
-
-They're projects built around real problems:
-
-• Electrical Engineering
-
-• Education
-
-• Civic Technology
-
-• Developer Tools
-
-Every repository is an opportunity to learn something new
-and leave the codebase cleaner than I found it.
-```
-
----
-
-## `~/connect`
-
-```text
-GitHub
-
-github.com/Levii17
-
-LinkedIn
-
-Coming Soon
-
-Portfolio
-
-Currently Building
+LinkedIn   → Coming Soon
 ```
 
 ---
@@ -230,12 +145,13 @@ Currently Building
 <div align="center">
 
 ```text
-──────────────────────────────────────────────────────────────────────
-
-Last login: today
-
-mxolisi@github:~$ █
-
+┌─────────────────────────────────────────────┐
+│                                             │
+│     Thanks for stopping by 👋               │
+│                                             │
+│     Feel free to explore my repositories.   │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
 </div>
