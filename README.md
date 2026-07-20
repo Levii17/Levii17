@@ -26,132 +26,53 @@ philosophy:  "Less, but better."
 ```
 
 ---
-
-# $ mission
-
-I enjoy designing software that is simple, reliable, and solves real-world
-problems.
-
-My current focus is building strong backend fundamentals while creating
-projects that improve education, civic technology, and digital services.
-
----
-
 # $ toolbox
 
-```bash
-languages/
-├── Python
-├── JavaScript
-└── TypeScript
+**Languages** <p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <!--
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  -->
+</p>
 
-frontend/
-├── React
-├── Next.js
-├── HTML
-├── CSS
-└── Tailwind CSS
+**Frontend** <p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
 
-backend/
-├── Node.js
-├── Express
-└── REST APIs
+**Backend & Database** <p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+</p>
 
-databases/
-├── PostgreSQL
-├── MySQL
-└── MongoDB
+**Cloud, DevOps & Hosting** <p align="left">
+<!--
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  -->
+  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+</p>
 
-tools/
-├── Git
-├── GitHub
-├── VS Code
-├── Postman
-├── Prisma
-└── Figma
-```
-
+**Design & Creative** <p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <!--
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" alt="Adobe Lightroom" />
+  -->
+</p>
 ---
-
-# $ currently
-
-```bash
-✓ Building backend projects with Python
-
-✓ Expanding my knowledge of backend architecture
-
-✓ Studying cybersecurity fundamentals
-
-✓ Designing clean, user-focused interfaces
-
-✓ Looking for opportunities to contribute and grow
-```
-
----
-
-# $ featured_projects
-
-```text
-🛠 CivicReport
-Citizen reporting platform focused on improving communication
-between communities and local government.
-
-📚 South African Learning Platform
-Interactive platform for learning South African history,
-geography, politics and culture.
-
-🛡 Future Cybersecurity Projects
-Security tools, automation scripts and defensive utilities.
-```
-
-*(More projects coming soon.)*
-
----
-
-# $ github_activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Levii17&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true"/>
-
-</div>
-
----
-
-# $ principles
-
-```text
-• Build things that matter.
-• Keep learning.
-• Write clean, maintainable code.
-• Design before developing.
-• Simplicity scales.
-```
-
----
-
-# $ connect
-
-```bash
-GitHub     → github.com/Levii17
-
-Portfolio  → Coming Soon
-
-LinkedIn   → Coming Soon
-```
-
----
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│     Thanks for stopping by 👋               │
-│                                             │
-│     Feel free to explore my repositories.   │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-</div>
